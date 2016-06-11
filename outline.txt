@@ -1,0 +1,27 @@
+Outline of lecture:
+
+(1) Understanding buffer overflow exploits
+	-- See simpleoverflow.c
+
+(2) Socket programming in Python
+	-- See banner-grabber.py and port-scanner.py
+
+(3) Fuzzing
+	-- See fuzzer.py
+
+(4) Fine tuning the fuzzer
+	-- Finding the exact position at which the instruction pointer is overwritten.
+	-- Give "trun ." the following buffer:
+		badbuf = "A" * 2006 + "B" * 4 + "C" * 24
+	
+(5) Gaining control of the stack pointer
+	-- Using Immunity Debugger to locate a jmp esp instruction in vulnerver.exe or essfunc.dll
+
+(6) Generating a payload with msfvenom
+	-- See exploit.py
+
+(7) Completing the exploit
+	-- See exploit.py
+
+(8) Writing shellcode by hand
+	-- See custom-payload-calc.py and custom-payload-add-user.py

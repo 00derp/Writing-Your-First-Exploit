@@ -1,0 +1,13 @@
+What you will need to do:
+
+	(1) Create a Kali Linux virtual machine.
+
+	(2) Create a Windows virtual machine. Any version of Windows should work.
+		Note: Some students have reported problems with Windows 10. 
+
+	(3) Download VulnServer.exe on the Windows virtual machine.
+
+	(4) Install Immunity Debugger on the Windows virtual machine.
+
+	(5) Download arwin.exe onto the Windows virtual machine.
+
