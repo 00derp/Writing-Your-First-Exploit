@@ -1,0 +1,20 @@
+This file will contain a list of materials referenced and tools used in this training session.
+
+Hacking: The Art of Exploitation
+https://www.nostarch.com/hacking2.htm
+
+VulnServer
+http://www.thegreycorner.com/2010/12/introducing-vulnserver.html
+
+Immunity Debugger
+https://www.immunityinc.com/products/debugger/
+
+FuzzySecurity - Writing W32 Shellcode
+http://www.fuzzysecurity.com/tutorials/expDev/6.html
+
+arwin.exe
+Source code: http://www.vividmachines.com/shellcode/shellcode.html
+Compiled: http://www.fuzzysecurity.com/tutorials/expDev/tools/arwin.rar
+
+
+Additionally, I strongly recommend Sam Bowne's course materials, which can be found at samsclass.info.
